@@ -15,3 +15,6 @@ Imagine yourself as Peter Pandey and perform the following task
 - The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand
 - Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
+Data Model
+![Screenshot 2025-05-15 200650](https://github.com/user-attachments/assets/1d9be47e-6e85-4c62-b0e9-21abc3ce761d)
+
