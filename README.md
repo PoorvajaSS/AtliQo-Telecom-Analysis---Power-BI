@@ -18,3 +18,8 @@ Imagine yourself as Peter Pandey and perform the following task
 Data Model
 ![Screenshot 2025-05-15 200650](https://github.com/user-attachments/assets/1d9be47e-6e85-4c62-b0e9-21abc3ce761d)
 
+Dashboard Design 
+
+![Screenshot 2025-05-15 194420](https://github.com/user-attachments/assets/621d2809-6562-42e2-9aef-8d4b4fd7ce3e)
+
+
