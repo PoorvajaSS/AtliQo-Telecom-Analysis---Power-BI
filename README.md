@@ -19,7 +19,10 @@ Data Model
 ![Screenshot 2025-05-15 200650](https://github.com/user-attachments/assets/1d9be47e-6e85-4c62-b0e9-21abc3ce761d)
 
 Dashboard Design 
+![Screenshot 2025-05-15 194350](https://github.com/user-attachments/assets/ec1f847d-8973-4267-85ae-f852de1a44b3)
+![Screenshot 2025-05-15 194407](https://github.com/user-attachments/assets/d3aeb332-689d-40cf-91c5-1794099afce4)
+![Screenshot 2025-05-15 194420](https://github.com/user-attachments/assets/d49ba25a-55e3-46db-a50d-ea6dc40bbcee)
 
-![Screenshot 2025-05-15 194420](https://github.com/user-attachments/assets/621d2809-6562-42e2-9aef-8d4b4fd7ce3e)
+
 
 
