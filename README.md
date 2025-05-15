@@ -1,6 +1,8 @@
 # AtliQo-Telecom-Analysis---Power-BI
 I have developed a dashboard as a project in Power BI , creating multiple pages consists of  visualization charts and  tables to analyze the data .
 
+Challenge details - [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
+
 Problem statement
 
 AtliQo is one of the leading telecom providers in India and launched it’s 5G plans in May 2022 along with other telecom providers.
