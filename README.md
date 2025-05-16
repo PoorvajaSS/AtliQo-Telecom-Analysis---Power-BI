@@ -38,11 +38,17 @@ Dashboard Design
 Insights 
 
 •	Overall Revenue dipped slightly by 0.625% . 
+
 •	Average revenue per user increased by ₹21.1.
+
 •	Active Users  fell by 7 Mn, but Unsubscriber  grew by 1.4 Mn, suggesting a low-engagement users.
+
 •	The most Active users and unsubscribed users are from the Mumbai, Delhi and Kolkata .
+
 •	The market share growth  during Jan-Feb notable decline during Aug -Sept.
+
 •	Total Market Value peaked at ₹112 Bn in September, reflecting a ₹5 Bn surge from August.
+
 •	Plan Revenue surged by ₹1.9 Bn , driven by high adoption of P1, P2, and P11 plans.
 
 
