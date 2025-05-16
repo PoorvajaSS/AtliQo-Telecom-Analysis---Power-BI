@@ -16,7 +16,9 @@ Imagine yourself as Peter Pandey and perform the following task
 - Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
 
+
 Data Model
+
 
 ![Screenshot 2025-05-15 200650](https://github.com/user-attachments/assets/69405b94-6654-4e9e-9444-a0414621a094)
 
