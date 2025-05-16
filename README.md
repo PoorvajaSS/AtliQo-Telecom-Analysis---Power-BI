@@ -1,4 +1,4 @@
-# AtliQo-Telecom-Analysis---Power-BI
+# AtliQo-Telecom-Analysis - Power-BI
 I have developed a dashboard as a project in Power BI , creating multiple pages consists of  visualization charts and  tables to analyze the data .
 
 Challenge details - [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
@@ -15,17 +15,6 @@ Imagine yourself as Peter Pandey and perform the following task
 - The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand
 - Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
-Data Model
-
-![Screenshot 2025-05-15 200650](https://github.com/user-attachments/assets/1d9be47e-6e85-4c62-b0e9-21abc3ce761d)
-
-Dashboard Design 
-
-![Screenshot 2025-05-15 194350](https://github.com/user-attachments/assets/ec1f847d-8973-4267-85ae-f852de1a44b3)
-
-![Screenshot 2025-05-15 194407](https://github.com/user-attachments/assets/d3aeb332-689d-40cf-91c5-1794099afce4)
-
-![Screenshot 2025-05-15 194420](https://github.com/user-attachments/assets/d49ba25a-55e3-46db-a50d-ea6dc40bbcee)
 
 
 
